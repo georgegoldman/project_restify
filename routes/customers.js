@@ -5,7 +5,7 @@ const config = require('../config')
 
 module.exports = (server) => {
     //get customers
-    server.get('/customers', async (req, res, next) => {
+    server.get('/customers', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
         try {
             const customers = await Customer.find({});
             res.send(customers);
@@ -16,7 +16,7 @@ module.exports = (server) => {
     });
 
     // get a customer
-    server.get('/customer/:id', async (req, res, next) => {
+    server.get('/customer/:id', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
         const id = req.params.id;
         try {
             const customer = await Customer.findById(id);
@@ -72,7 +72,7 @@ module.exports = (server) => {
     });
 
     // delete user
-    server.del('/customer/:id', async (req, res, next) => {
+    server.del('/customer/:id', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
 
         const id = req.params.id
         try{
