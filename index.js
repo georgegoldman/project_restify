@@ -1,5 +1,6 @@
 const restify = require('restify');
 const mongoose = require('mongoose');
+require('dotenv').config();
 const config = require('./config');
 
 const server = restify.createServer();
@@ -12,7 +13,10 @@ server.use(restify.plugins.bodyParser());
 server.listen(config.PORT, () => {
     mongoose.connect(
         config.MONGODB_URI,
-        { useNewUrlParser: true }
+        { 
+            useNewUrlParser: true,
+            useUnifiedTopology: true
+        }
     );
 });
 
