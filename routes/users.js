@@ -1,9 +1,9 @@
 const errors = require('restify-errors')
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
-const User = require('../models/User')
+const User = require('../app/models/User')
 const auth = require('../auth')
-const config = require('../config')
+const config = require('../app/lib/configs/config')
 
 module.exports = server => {
     // register
