@@ -38,7 +38,7 @@ module.exports = server => {
             // authenticate user
             const user = await auth.authenticate(email, password)
             // create token
-            const token  = jwt.sign(user.toJSON(), config.JWT_SECRET, {
+            const token  = jwt.sign(user.toJSON(), config.app.jwt_secret, {
                 expiresIn: '15m'
             });
 
