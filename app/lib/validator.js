@@ -4,7 +4,7 @@
 let httpStatus = require('http-status')
 let errors = require('restify-errors')
 
-module.expors.paramValidation = function (log, joi) {
+module.exports.paramValidation = function (log, joi) {
     return function (req, res, next) {
         let options = {
             allowUnknown: true

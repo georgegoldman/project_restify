@@ -5,15 +5,30 @@ require('dotenv').config();
 const config = require('./app/configs/config');
 const restify = require('restify');
 const versioning = require('restify-url-semver')
-const mongoose = require('mongoose');
-const rjwt = require('restify-jwt-community')
+const joi = require('joi')
+
+// require DI
+
+const serviceLocator = require('./app/configs/di')
+const validator = require('./app/lib/validator')
+const handler = require('./app/lib/error_handler')
+const routes = require('./app/routes/routes')
+const logger = serviceLocator.get('logger')
+
+
+// const mongoose = require('mongoose');
+// const rjwt = require('restify-jwt-community')
 
 const server = restify.createServer({
+    name: config.app.name,
+    version: ['1.0.0'],
     formatters: {
         'application/json': require('./app/lib/jsend')
     }
 });
 
+const Database = require('./app/configs/database')
+new Database(config.mongo.mongo_URI)
 
 //middleware
 
@@ -36,6 +51,12 @@ server.use(
     })
 )
 
+server.use(validator.paramValidation(logger, joi))
+
+handler.register(server)
+
+routes.register(server, serviceLocator)
+
 server.listen(config.app.port, () => {
-    console.log(`Server is running at ${config.app.port}`) 
+    console.log(` ${config.app.name} Server is running at ${config.app.port}`) 
 })

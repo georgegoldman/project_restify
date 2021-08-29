@@ -16,14 +16,14 @@ const createTransports = function (config) {
     }
     
     if (config.console) {
-        customTransports.push(
+        customerTransports.push(
             new transports.Console({
                 level: config.level
             })
         )
     }
 
-    return customTransports;
+    return customerTransports;
 }
 
 module.exports = {
@@ -31,7 +31,7 @@ module.exports = {
         return createLogger({
             transports: createTransports(config),
             format: combine(
-                label({label: 'Birthdates API'}),
+                label({label: 'Restify API'}),
                 timestamp(),
                 prettyPrint()
             )

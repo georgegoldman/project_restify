@@ -1,17 +1,20 @@
 'use strict'
 
 const serviceLocator = require('../lib/service_locator')
-const logger = seviceLocator.get('logger')
+const logger = serviceLocator.get('logger')
 
 class Database{
-    constructor(port, host, name){
+    constructor(db_URI){
         this.mongoose = serviceLocator.get('mongoose')
-        this._connect(port, host, name);
+        this._connect(db_URI);
     }
 
-    _connect(port, host, name) {
+    _connect(db_URI) {
         this.mongoose.Promise = global.Promise
-        this.mogoose.connect(`mongodb://${host}:${port}/${name}`)
+        this.mongoose.connect(db_URI, {
+            useNewUrlParser: true,
+            useUnifiedTopology: true
+        })
         const {connection} = this.mongoose
         connection.on('connected', () => {
             logger.info('Database Connection was Successful')
@@ -33,7 +36,7 @@ class Database{
         }
         )
 
-        require('../models/Users')
+        require('../models/User')
     }
 }
 

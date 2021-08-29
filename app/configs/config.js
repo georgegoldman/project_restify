@@ -5,6 +5,7 @@ module.exports = {
     // MONGODB_URI: process.env.MONGODB_URI ,
     // JWT_SECRET: process.env.JWT_SECRET,
     app: {
+        name: process.env.APP_NAME,
         port: process.env.PORT,
         env: process.env.NODE_ENV,
         url: process.env.BASE_URL,
