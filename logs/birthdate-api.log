@@ -1270,3 +1270,33 @@
   label: 'Restify API',
   timestamp: '2021-09-03T12:45:07.559Z'
 }
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T13:58:40.387Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:00:35.638Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:00:46.407Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:04:17.284Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:04:28.078Z'
+}
