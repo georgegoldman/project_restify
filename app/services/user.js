@@ -9,12 +9,15 @@ class UserService {
     }
 
     async createUser(body) {
+        // console.log(body)
         const User = this.mongoose.model('User')
+        // console.log(User)
         const {name} = body
         const user = await User.findOne({name})
+        console.log(user)
 
         if(user) {
-            const err = new this.err.InvalidArgumentError(
+            const err = new this.errs.InvalidArgumentError(
                 'User with user name alredy exists'
             )
 
@@ -28,7 +31,7 @@ class UserService {
         return newUser;
     }
 
-    async getUser(username) {
+    async getUser(name) {
         const User = this.mongoose.model('User')
         const user = await Users.findOne({name})
 

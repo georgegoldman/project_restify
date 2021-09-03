@@ -10,7 +10,7 @@ module.exports.paramValidation = function (log, joi) {
             allowUnknown: true
         }
 
-        let validation = req.quote.spec.validation;
+        let validation = req.route.spec.validation;
         if(!validation) {
             return next()
         }
@@ -32,7 +32,7 @@ module.exports.paramValidation = function (log, joi) {
                     return
                 }
 
-                let result = joi.validate(req[i], validation[i], options)
+                let result = joi.object().validate(req[i], validation[i], options)
                 if (result.error) {
                     log.debug('validation error - %s', result.error.message)
                     res.send(

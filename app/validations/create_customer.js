@@ -1,8 +1,17 @@
 'use strict'
 
-const joi = require('joi')
+const Joi = require('joi')
 
-module.exports = joi.object().keys({
-    name: joi.string().min(5).max(60).required(),
-    email: joi.string().min(5).max(60).required(),
-}).required();
+const schema = Joi.object({
+    name : Joi.string()
+            .min(5)
+            .max(60)
+            .required(),
+    email: Joi.string()
+            .min(5)
+            .max(60)
+            .required()
+})
+    .with('name', 'email')
+
+module.exports = schema

@@ -12,7 +12,7 @@ module.exports.register = (server, serviceLocator) => {
             }
         },
         (req, res, next) =>
-            serviceLocator.get('useController').create(req, res, next)
+            serviceLocator.get('userController').create(req, res, next)
     )
 
     server.get(

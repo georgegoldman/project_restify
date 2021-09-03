@@ -130,3 +130,1143 @@
   label: 'Restify API',
   timestamp: '2021-08-29T11:58:39.732Z'
 }
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:08:54.323Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:09:00.952Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:14:33.454Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:15:04.664Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:23:13.614Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:23:14.521Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:23:20.816Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:24:04.362Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:34:40.611Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:35:58.378Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:37:28.045Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:38:03.950Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:41:33.378Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:41:45.418Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:41:45.786Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:42:35.373Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:50:50.302Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T12:55:28.272Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:01:28.641Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:02:12.758Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:04:05.904Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:07:21.724Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:09:29.959Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:20:56.740Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:24:50.358Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:25:02.432Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:25:08.000Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:27:40.065Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:30:34.296Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:31:10.655Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:35:09.372Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:36:20.471Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:38:04.559Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:38:49.294Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:38:51.012Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:40:29.785Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:41:15.982Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:41:29.192Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:41:45.320Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:44:17.266Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:44:31.522Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:44:49.948Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:45:09.356Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:45:17.999Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:51:37.715Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:52:14.264Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:52:14.859Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:53:20.969Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:53:53.635Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:55:29.767Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:55:30.199Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:56:20.644Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T13:56:20.946Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T14:00:53.798Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T14:01:13.507Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-29T14:04:54.834Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T13:37:20.683Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T13:38:00.695Z'
+}
+{
+  message: 'Database Connection FailedError: queryTxt ETIMEOUT cluster0.ir4do.mongodb.net',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T13:38:00.697Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T15:57:55.583Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T15:58:43.107Z'
+}
+{
+  message: 'Database Connection FailedError: querySrv EREFUSED _mongodb._tcp.cluster0.ir4do.mongodb.net',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T15:58:43.112Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:00:13.165Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:00:22.462Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:01:04.406Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:18:11.285Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:18:18.749Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:19:23.657Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:29:08.341Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:29:16.749Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:29:27.538Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:33:33.673Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:34:12.299Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:49:54.864Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:52:35.704Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:52:41.329Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:53:44.862Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T16:59:43.105Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:28:38.359Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:28:47.133Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:45:23.625Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:45:34.940Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:51:57.398Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:51:57.620Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:55:35.189Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:58:43.590Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T17:58:45.106Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:00:22.278Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:25.851Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:29.758Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:29.856Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:42.270Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:51.389Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:03:52.629Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:04:09.434Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:09:03.821Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:09:05.822Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:10:28.035Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:10:35.549Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:17:47.636Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:18:17.949Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:18:19.020Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:24:10.810Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:24:59.425Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:24:59.511Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:27:03.237Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:27:04.353Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:27:41.435Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:27:42.651Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:29:28.656Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:31:03.687Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:31:13.413Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:31:50.168Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:32:01.042Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:32:40.609Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:32:46.837Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:32:50.428Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:38:12.729Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:44:51.598Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:45:52.608Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:49:34.386Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T18:51:16.497Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:03:50.515Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:03:51.761Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:04:11.531Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:04:14.868Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:34:51.728Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-30T19:44:22.294Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T06:05:04.807Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T09:46:11.643Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:04:29.126Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:04:32.027Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:04:36.411Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:04:38.856Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:06:25.003Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:06:25.191Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T10:11:20.049Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:41:34.350Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:41:47.522Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:42:20.059Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:43:32.058Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:43:50.407Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:43:51.163Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:46:29.374Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:46:37.618Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:46:50.752Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:46:51.024Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:48:16.319Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:48:33.026Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:55:21.516Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:55:28.683Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:57:24.893Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:57:26.349Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:57:59.993Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T11:58:00.952Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T12:02:05.484Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T12:06:54.947Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T16:11:45.202Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T16:56:17.848Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-08-31T16:56:29.134Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:14:51.962Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:16:36.549Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:17:26.897Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:17:28.066Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:19:12.300Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:24:17.683Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:25:35.539Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:25:42.626Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:26:36.466Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:26:40.963Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:26:42.588Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:27:33.487Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:27:35.858Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:33:14.234Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:33:17.470Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:34:37.238Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:34:49.764Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:34:57.790Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:34:59.021Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:38:58.101Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:39:09.325Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:40:17.804Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:40:18.428Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:41:51.164Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:41:52.029Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:42:55.815Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:42:57.986Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:42:58.534Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:43:55.202Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T12:45:07.559Z'
+}

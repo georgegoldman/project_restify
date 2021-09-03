@@ -15,7 +15,7 @@ serviceLocator.register('mongoose', ()=> {
     return require('mongoose');
 })
 
-serviceLocator.register('err', ()=> {
+serviceLocator.register('errs', ()=> {
     return require('restify-errors')
 })
 
@@ -32,8 +32,8 @@ serviceLocator.register('customerService', (serviceLocator) => {
 serviceLocator.register('userService', (serviceLocator) => {
     const log = serviceLocator.get('logger')
     const mongoose = serviceLocator.get('mongoose')
-    const httpStatus = servicelocator.get('httpStatus')
-    const errs  = serviceLocator.get('errs')
+    const httpStatus = serviceLocator.get('httpStatus')
+    const errs = serviceLocator.get('errs');
     const UserService = require('../services/user')
 
     return new UserService(log, mongoose, httpStatus, errs)

@@ -5,8 +5,7 @@ require('dotenv').config();
 const config = require('./app/configs/config');
 const restify = require('restify');
 const versioning = require('restify-url-semver')
-const joi = require('joi')
-
+const Joi = require('joi')
 // require DI
 
 const serviceLocator = require('./app/configs/di')
@@ -51,7 +50,8 @@ server.use(
     })
 )
 
-server.use(validator.paramValidation(logger, joi))
+
+server.use(validator.paramValidation(logger, Joi))
 
 handler.register(server)
 

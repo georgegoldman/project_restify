@@ -6,7 +6,7 @@ const mongoose = require('mongoose')
 const customer  = require('./Customer')
 
 const UserSchema = new mongoose.Schema({
-    email: {
+    name: {
         type: String,
         required: true,
         trim: true
