@@ -12,7 +12,7 @@ class CustomerController {
     async create(req, res) {
         try {
             const {body} = req
-            const {username} = req.params
+            const {name, email, balance} = body
             const result  = await this.cusomerServices.createCustomer(name, email, balance)
 
             if(result instanceof Error) 
@@ -36,4 +36,4 @@ class CustomerController {
     }
 }
 
-module.exports = CustomerConntroller
+module.exports = CustomerController

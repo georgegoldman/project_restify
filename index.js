@@ -51,7 +51,7 @@ server.use(
 )
 
 
-server.use(validator.paramValidation(logger, Joi))
+server.use(validator.headerValidation(logger, Joi))
 
 handler.register(server)
 

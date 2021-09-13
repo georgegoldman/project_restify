@@ -14,7 +14,7 @@ class UserService {
         // console.log(User)
         const {name} = body
         const user = await User.findOne({name})
-        console.log(user)
+        // console.log(user)
 
         if(user) {
             const err = new this.errs.InvalidArgumentError(

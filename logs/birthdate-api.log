@@ -1300,3 +1300,369 @@
   label: 'Restify API',
   timestamp: '2021-09-03T14:04:28.078Z'
 }
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:14:33.448Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:16:39.961Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:17:53.253Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:18:06.441Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:23:15.896Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:23:19.802Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:23:21.789Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:24:10.448Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:26:43.718Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:26:44.260Z'
+}
+{
+  message: 'successfully validated request parameters',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:28:14.589Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:38:45.017Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:39:54.678Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:40:11.328Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:44:11.506Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:48:51.924Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:51:12.934Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:54:28.909Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-03T14:57:08.152Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-04T05:40:04.493Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-04T10:52:31.397Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-04T10:56:07.532Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:33:30.522Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:34:48.473Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:43:22.718Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:43:26.475Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:57:40.167Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T17:57:50.557Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:10:13.836Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:10:45.169Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:11:05.356Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:12:11.029Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:13:50.957Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:16:54.837Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:18:21.402Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:19:32.868Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:24:26.199Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:24:48.129Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:24:58.455Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:40:33.719Z'
+}
+{
+  message: 'email is not defined',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:40:34.552Z'
+}
+{
+  message: 'balance is not defined',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:41:58.386Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:41:59.586Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:42:49.739Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-12T18:49:49.680Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T11:38:14.240Z'
+}
+{
+  message: 'Database Connection FailedError: querySrv ETIMEOUT _mongodb._tcp.cluster0.ir4do.mongodb.net',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T11:38:14.244Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T12:18:43.598Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T12:19:15.520Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T12:59:08.095Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T12:59:14.826Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T12:59:21.795Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:08:24.433Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:08:31.427Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:11:05.339Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:13:17.321Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:13:50.842Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:14:48.458Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:14:53.369Z'
+}
+{
+  message: 'eamil is not defined',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:14:54.310Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:16:58.742Z'
+}

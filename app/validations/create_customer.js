@@ -12,6 +12,5 @@ const schema = Joi.object({
             .max(60)
             .required()
 })
-    .with('name', 'email')
 
 module.exports = schema

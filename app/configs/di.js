@@ -22,7 +22,7 @@ serviceLocator.register('errs', ()=> {
 serviceLocator.register('customerService', (serviceLocator) => {
     const log = serviceLocator.get('logger')
     const mongoose = serviceLocator.get('mongoose')
-    const httpStatus = servicelocator.get('httpStatus')
+    const httpStatus = serviceLocator.get('httpStatus')
     const errs  = serviceLocator.get('errs')
     const CustomerServices = require('../services/customer');
 

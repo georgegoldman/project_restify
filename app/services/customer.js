@@ -9,10 +9,10 @@ class CustomerServices {
     }
 
     async createCustomer(name, email, balance){
-        const User = mongoose.model('User')
-        const user = await User.findOne({email})
-        const {name} = body
-
+        const User = this.mongoose.model('User')
+        const user = await User.findOne({name})
+        // const name = body
+        console.log(name, email, balance)
         if(!user) {
             const err = new this.errs.NotFoundError(
                 `User with username - ${name} does not exists`
@@ -22,7 +22,7 @@ class CustomerServices {
 
         user.customer.push({
             name,
-            eamil,
+            email,
             balance
         })
 
