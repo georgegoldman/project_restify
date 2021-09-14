@@ -25,7 +25,7 @@ module.exports.register = (server, serviceLocator) => {
             }
         }, 
         (req, res, next) =>
-            service.get('customerController').listAll(req, res, next)
+            serviceLocator.get('customerController').listAll(req, res, next)
     )
 
     server.post(

@@ -12,8 +12,8 @@ class CustomerController {
     async create(req, res) {
         try {
             const {body} = req
-            const {name, email, balance} = body
-            const result  = await this.cusomerServices.createCustomer(name, email, balance)
+            const {name} = req.params
+            const result  = await this.cusomerServices.createCustomer(name, body)
 
             if(result instanceof Error) 
             res.send(result)
@@ -26,7 +26,7 @@ class CustomerController {
 
     async listAll(req, res) {
         try {
-            const {name } = req.params
+            const {name} = req.params
             const result = await this.cusomerServices.getCustomer(name);
             res.send(result)
         }catch (err) {

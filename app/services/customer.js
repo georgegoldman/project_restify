@@ -1,5 +1,7 @@
 'use strict'
 
+// const { customer } = require("../models/Customer")
+
 class CustomerServices {
     constructor (log, mongoose, httpStatus, errs) {
         this.log = log
@@ -8,11 +10,14 @@ class CustomerServices {
         this.errs = errs
     }
 
-    async createCustomer(name, email, balance){
+    async createCustomer(name, body){
         const User = this.mongoose.model('User')
+        // const Customer = this.mongoose.model('Customer')
         const user = await User.findOne({name})
+        // console.log(user)
+        const {email, balance} = body
         // const name = body
-        console.log(name, email, balance)
+        // console.log(name, email, balance)
         if(!user) {
             const err = new this.errs.NotFoundError(
                 `User with username - ${name} does not exists`
@@ -20,18 +25,20 @@ class CustomerServices {
             return err
         }
 
-        user.customer.push({
-            name,
-            email,
-            balance
-        })
+        // const customer = new Customer({
+        //     name,
+        //     email,
+        //     balance
+        // })
+
+        user.customers.push(body);
 
         return user.save()
     }
 
     async getCustomer(name) {
-        const Users = this.mongoose.model('Users')
-        const user = await Users.findeOne({name})
+        const User = this.mongoose.model('User')
+        const user = await User.findOne({name})
 
         if (!user) {
             const err = new this.errs.NotFoundError(
@@ -40,7 +47,7 @@ class CustomerServices {
 
             return err
         }
-        return user.customer
+        return user.customers
     }
 }
 

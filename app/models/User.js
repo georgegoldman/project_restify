@@ -3,7 +3,23 @@
 const config = require('../configs/config')
 const serviceLocator = require('../lib/service_locator')
 const mongoose = require('mongoose')
-const customer  = require('./Customer')
+
+const CustomerSchema = new mongoose.Schema({
+    name: {
+        type: String,
+        required: true
+    },
+    email: {
+        type: String,
+        required: true,
+    },
+    balance: {
+        type: Number,
+        required: true,
+        default: 0
+    }
+})
+
 
 const UserSchema = new mongoose.Schema({
     name: {
@@ -16,7 +32,9 @@ const UserSchema = new mongoose.Schema({
         required: true,
 
     },
-    customer: [customer.CustomerSchema]
+    customers: [CustomerSchema]
+},{
+    timestamps: true
 })
 
 const User = mongoose.model('User', UserSchema)

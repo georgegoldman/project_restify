@@ -1666,3 +1666,792 @@
   label: 'Restify API',
   timestamp: '2021-09-13T13:16:58.742Z'
 }
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:22:28.238Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T13:22:39.432Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:27:43.391Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:28:41.623Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:44:38.502Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:44:56.531Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:47:01.903Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:50:40.026Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:52:23.126Z'
+}
+{
+  message: "Cannot read property 'push' of undefined",
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:52:23.433Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:52:40.477Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:53:08.743Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:53:17.661Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:58:23.958Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:58:42.420Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:58:47.793Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T15:59:43.544Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:00:41.379Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:50:51.939Z'
+}
+{
+  message: 'User validation failed: customer.0: Cast to [undefined] failed for value "[{"balance":4000,"_id":"613f4f4bf286b72d83fdc1aa","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T13:16:59.019Z","createdAt":"2021-09-13T13:16:59.019Z"},{"balance":4000,"_id":"613f6e2bf286b72d83fdc1ad","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T15:28:43.211Z","createdAt":"2021-09-13T15:28:43.211Z"},{"balance":4000,"_id":"613f6e94f286b72d83fdc1b0","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T15:30:28.318Z","createdAt":"2021-09-13T15:30:28.318Z"},{"balance":4000,"_id":"613f7292ffeaf9407df0a104","name":"george goldman","email":"georgegoldman@gmail.com","createdAt":"2021-09-13T15:47:30.021Z","updatedAt":"2021-09-13T15:47:30.021Z"}]" (type string) at path "customer.0"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:50:55.365Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:53:17.525Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:53:24.418Z'
+}
+{
+  message: 'User validation failed: customer.0: Cast to [undefined] failed for value "[{"balance":4000,"_id":"613f4f4bf286b72d83fdc1aa","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T13:16:59.019Z","createdAt":"2021-09-13T13:16:59.019Z"},{"balance":4000,"_id":"613f6e2bf286b72d83fdc1ad","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T15:28:43.211Z","createdAt":"2021-09-13T15:28:43.211Z"},{"balance":4000,"_id":"613f6e94f286b72d83fdc1b0","name":"george goldman","email":"georgegoldman@gmail.com","updatedAt":"2021-09-13T15:30:28.318Z","createdAt":"2021-09-13T15:30:28.318Z"},{"balance":4000,"_id":"613f7292ffeaf9407df0a104","name":"george goldman","email":"georgegoldman@gmail.com","createdAt":"2021-09-13T15:47:30.021Z","updatedAt":"2021-09-13T15:47:30.021Z"}]" (type string) at path "customer.0"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:53:24.715Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T16:58:15.783Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:03:23.536Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:03:48.221Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:05:25.925Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:05:43.283Z'
+}
+{
+  message: 'Cast to ObjectId failed for value "{\n' +
+    "  name: 'george goldman',\n" +
+    "  email: 'georgegoldman@gmail.com',\n" +
+    '  balance: 4000\n' +
+    '}" (type Object) at path "customer"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:05:44.353Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:07:56.882Z'
+}
+{
+  message: 'Cast to ObjectId failed for value "{\n' +
+    "  name: 'george goldman',\n" +
+    "  email: 'georgegoldman@gmail.com',\n" +
+    '  balance: 4000\n' +
+    '}" (type Object) at path "customer"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:07:57.180Z'
+}
+{
+  message: 'Cast to ObjectId failed for value "{\n' +
+    "  name: 'george goldman',\n" +
+    "  email: 'georgegoldman@gmail.com',\n" +
+    '  balance: 4000\n' +
+    '}" (type Object) at path "customer"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:10:24.758Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:12:48.948Z'
+}
+{
+  message: 'user.customer is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:12:49.274Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:13:02.922Z'
+}
+{
+  message: 'Cast to ObjectId failed for value "{\n' +
+    "  name: 'george goldman',\n" +
+    "  email: 'georgegoldman@gmail.com',\n" +
+    '  balance: 4000\n' +
+    '}" (type Object) at path "customer"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:13:06.312Z'
+}
+{
+  message: 'Cast to ObjectId failed for value "{\n' +
+    "  name: 'george goldman',\n" +
+    "  email: 'georgegoldman@gmail.com',\n" +
+    '  balance: 4000\n' +
+    '}" (type Object) at path "customer"',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:14:49.392Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:15:06.421Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:22:20.214Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:25:56.635Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:29:56.689Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:31:37.813Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:33:24.261Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-13T17:35:02.931Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:07:13.005Z'
+}
+{
+  message: 'Database Connection FailedError: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ir4do.mongodb.net',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:07:13.010Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:08:32.138Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:08:45.044Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:08:51.998Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:11:55.176Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:19:31.814Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:23:50.039Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:24:13.877Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:25:57.695Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:27:11.176Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:27:24.854Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:28:57.105Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:29:07.814Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:31:23.989Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:33:33.717Z'
+}
+{
+  message: 'user.customer.update is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:33:34.765Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:33:48.140Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:39:57.397Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:42:48.673Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:44:29.477Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T05:45:47.916Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:03:59.442Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:07:21.916Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:16:12.895Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:16:33.930Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:23:21.112Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:23:58.423Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:24:36.411Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:25:38.066Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:25:52.131Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:26:23.744Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:27:19.898Z'
+}
+{
+  message: 'user.customers.save is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:27:20.182Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:27:34.450Z'
+}
+{
+  message: "Cannot read property 'push' of undefined",
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:27:34.738Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:27:41.127Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:28:30.380Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:28:45.027Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:28:53.619Z'
+}
+{
+  message: 'Operation `users.findOne()` buffering timed out after 10000ms',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:29:08.183Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:29:27.906Z'
+}
+{
+  message: "Database Connection FailedMongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/",
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T06:29:27.908Z'
+}
+{
+  message: 'Database connection disconnected',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T17:55:17.954Z'
+}
+{
+  message: 'Database Connection FailedError: querySrv EREFUSED _mongodb._tcp.cluster0.ir4do.mongodb.net',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T17:55:17.959Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T17:55:35.010Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T17:55:41.907Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:09:35.705Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:10:34.858Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:10:40.901Z'
+}
+{
+  message: 'User Created Successfully',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:11:59.423Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:20:12.623Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:20:25.638Z'
+}
+{
+  message: 'newCustomer.save is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:20:26.311Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:20:45.618Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:24:33.306Z'
+}
+{
+  message: 'user.customers.push(...).save is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:24:41.228Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:25:04.345Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:28:04.191Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:29:19.359Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:31:04.499Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:31:16.670Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:34:29.991Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:34:54.556Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:35:02.303Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:36:35.625Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:37:24.697Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:38:41.824Z'
+}
+{
+  message: 'Database Connection closed due to NodeJs process termination',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:38:43.705Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:38:49.337Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:42:13.870Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:44:22.017Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:47:21.570Z'
+}
+{
+  message: `Schema hasn't been registered for model "Users".\n` +
+    'Use mongoose.model(name, schema)',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:52:45.254Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:52:50.394Z'
+}
+{
+  message: 'Users.findeOne is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:53:46.444Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:53:47.620Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:54:25.472Z'
+}
+{
+  message: 'User.findeOne is not a function',
+  level: 'error',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:54:38.030Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:54:39.787Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:55:17.779Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:56:01.674Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:57:25.236Z'
+}
+{
+  message: 'Database Connection was Successful',
+  level: 'info',
+  label: 'Restify API',
+  timestamp: '2021-09-14T18:58:06.420Z'
+}
