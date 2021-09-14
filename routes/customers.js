@@ -1,11 +1,11 @@
 const errors = require('restify-errors');
 const rjwt = require('restify-jwt-community')
-const Customer = require('../models/Customer')
-const config = require('../config')
+const Customer = require('../app/models/Customer')
+const config = require('../app/lib/configs/config')
 
 module.exports = (server) => {
     //get customers
-    server.get('/customers', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
+    server.get('/customers', rjwt({ secret: config.app.jwt_secret }), async (req, res, next) => {
         try {
             const customers = await Customer.find({});
             res.send(customers);
@@ -16,7 +16,7 @@ module.exports = (server) => {
     });
 
     // get a customer
-    server.get('/customer/:id', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
+    server.get('/customer/:id', rjwt({ secret: config.app.jwt_secret }), async (req, res, next) => {
         const id = req.params.id;
         try {
             const customer = await Customer.findById(id);
@@ -28,7 +28,7 @@ module.exports = (server) => {
     })
 
     // add customer
-    server.post('/customers', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
+    server.post('/customers', rjwt({ secret: config.app.jwt_secret }), async (req, res, next) => {
         // check for json
         if(!req.is('application/json')) {
             return next(new errors.InvalidContentError("expects 'application/json'"));
@@ -53,7 +53,7 @@ module.exports = (server) => {
     });
 
     // update customer
-    server.put('/customer/:id', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
+    server.put('/customer/:id', rjwt({ secret: config.app.jwt_secret }), async (req, res, next) => {
         if(!req.is('application/json')){
             return next(new errors.InvalidContentError("expects 'application/json'"));
         }
@@ -72,7 +72,7 @@ module.exports = (server) => {
     });
 
     // delete user
-    server.del('/customer/:id', rjwt({ secret: config.JWT_SECRET }), async (req, res, next) => {
+    server.del('/customer/:id', rjwt({ secret: config.app.jwt_secret }), async (req, res, next) => {
 
         const id = req.params.id
         try{
